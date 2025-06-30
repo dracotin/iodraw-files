@@ -216,6 +216,9 @@
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-1" value="硬件抽象层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="1307.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vsKXMYvBRYD5tDiCORZ4-2" value="硬件抽象层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1317.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
