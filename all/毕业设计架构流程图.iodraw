@@ -204,18 +204,6 @@
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-97" value="&lt;span&gt;分布式爬虫&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="550.5" y="1169" width="124" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="66G-FmEpoT7dpdT3ZwNt-98" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1010" width="229" height="218" as="geometry" />
-        </mxCell>
-        <mxCell id="66G-FmEpoT7dpdT3ZwNt-99" value="话题分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1022" width="171" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="66G-FmEpoT7dpdT3ZwNt-100" value="分词" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1094" width="171" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="66G-FmEpoT7dpdT3ZwNt-101" value="情感分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1169" width="171" height="51" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
