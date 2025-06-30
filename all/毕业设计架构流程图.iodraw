@@ -156,6 +156,21 @@
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-77" value="VPU硬件" style="rounded=1;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="29" y="1360" width="738" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-82" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="51" y="364" width="720" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-83" value="指令消息队列" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="138" y="374" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-84" value="数据消息队列" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="433" y="374" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-85" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;entryX=0.438;entryY=-0.011;entryPerimeter=0;" edge="1" parent="1" target="66G-FmEpoT7dpdT3ZwNt-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="344" as="sourcePoint" />
+            <mxPoint x="296" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
