@@ -28,6 +28,9 @@
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-91" value="VPU设备驱动接口层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="284" y="1292.5" width="236" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vsKXMYvBRYD5tDiCORZ4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="66G-FmEpoT7dpdT3ZwNt-102" target="vsKXMYvBRYD5tDiCORZ4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-102" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="42" y="920" width="720" height="85" as="geometry" />
         </mxCell>
@@ -61,7 +64,7 @@
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-2" value="驱动层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="53" y="1427.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vsKXMYvBRYD5tDiCORZ4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vsKXMYvBRYD5tDiCORZ4-3" target="66G-FmEpoT7dpdT3ZwNt-107">
+        <mxCell id="vsKXMYvBRYD5tDiCORZ4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vsKXMYvBRYD5tDiCORZ4-3" target="66G-FmEpoT7dpdT3ZwNt-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
