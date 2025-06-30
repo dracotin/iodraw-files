@@ -189,6 +189,21 @@
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-92" value="VPU设备驱动" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="1132.5" width="236" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-93" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="214" y="238" width="563" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-94" value="分布式爬虫" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="229" y="248" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-95" value="&lt;span&gt;分布式爬虫&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="248" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-96" value="&lt;span&gt;分布式爬虫&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="509" y="247" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-97" value="&lt;span&gt;分布式爬虫&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="644" y="247" width="124" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
