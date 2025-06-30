@@ -168,6 +168,9 @@
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-76" value="微博&lt;div&gt;数据库&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="46" y="-62" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="66G-FmEpoT7dpdT3ZwNt-77" value="VPU硬件" style="rounded=1;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="29" y="1360" width="738" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
