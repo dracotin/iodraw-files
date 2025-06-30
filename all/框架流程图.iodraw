@@ -225,7 +225,7 @@
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-5" value="软件抽象层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="1077.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vsKXMYvBRYD5tDiCORZ4-6" value="......" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vsKXMYvBRYD5tDiCORZ4-6" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;......&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="1427.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
