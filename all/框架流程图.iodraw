@@ -187,16 +187,16 @@
           <mxGeometry x="284" y="1292.5" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-102" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="75" y="830" width="720" height="85" as="geometry" />
+          <mxGeometry x="42" y="930" width="720" height="85" as="geometry" />
         </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-103" value="解码程序" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="161" y="842.5" width="236" height="60" as="geometry" />
+          <mxGeometry x="128" y="942.5" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-104" value="编码程序" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="467" y="842.5" width="236" height="60" as="geometry" />
+          <mxGeometry x="434" y="942.5" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-106" value="应用层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="88" y="857.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="55" y="957.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="66G-FmEpoT7dpdT3ZwNt-107" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="42" y="1169" width="720" height="85" as="geometry" />
@@ -217,13 +217,13 @@
           <mxGeometry x="51" y="1427.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="62" y="950" width="720" height="85" as="geometry" />
+          <mxGeometry x="42" y="1050" width="720" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-4" value="VPU设备驱动接口层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=宋体;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="304" y="962.5" width="236" height="60" as="geometry" />
+          <mxGeometry x="284" y="1062.5" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsKXMYvBRYD5tDiCORZ4-5" value="硬件抽象层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="977.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="55" y="1077.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
