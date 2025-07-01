@@ -156,14 +156,26 @@
         <mxCell id="6dSLkNAxxThYnMK74QVw-7" value="通过工厂类构造编解码配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dSLkNAxxThYnMK74QVw-8" target="l1BXJFGkX6SluAQH5nGx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6dSLkNAxxThYnMK74QVw-8" value="逻辑层处理编解码任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1BXJFGkX6SluAQH5nGx-1" target="l1BXJFGkX6SluAQH5nGx-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l1BXJFGkX6SluAQH5nGx-1" value="硬件抽象层调用设备驱动操作硬件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1BXJFGkX6SluAQH5nGx-3" target="l1BXJFGkX6SluAQH5nGx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l1BXJFGkX6SluAQH5nGx-3" value="编解码任务完成返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1BXJFGkX6SluAQH5nGx-4" target="l1BXJFGkX6SluAQH5nGx-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l1BXJFGkX6SluAQH5nGx-4" value="软件抽象层封装结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1090" width="120" height="60" as="geometry" />
