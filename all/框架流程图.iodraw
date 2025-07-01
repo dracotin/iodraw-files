@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6dSLkNAxxThYnMK74QVw-1" value="创建编解码对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1BXJFGkX6SluAQH5nGx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dSLkNAxxThYnMK74QVw-2" target="6dSLkNAxxThYnMK74QVw-4">
           <mxGeometry relative="1" as="geometry" />
@@ -141,7 +141,7 @@
         <mxCell id="l1BXJFGkX6SluAQH5nGx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dSLkNAxxThYnMK74QVw-4" target="6dSLkNAxxThYnMK74QVw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l1BXJFGkX6SluAQH5nGx-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1BXJFGkX6SluAQH5nGx-8">
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-24" value="HEVC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1BXJFGkX6SluAQH5nGx-8">
           <mxGeometry x="-0.4" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
