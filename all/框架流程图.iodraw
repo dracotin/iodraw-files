@@ -150,6 +150,9 @@
         <mxCell id="l1BXJFGkX6SluAQH5nGx-3" value="编解码任务完成返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-4" value="接口抽象层封装结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
