@@ -126,8 +126,8 @@
         <mxCell id="6dSLkNAxxThYnMK74QVw-2" value="接口抽象层接收请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dSLkNAxxThYnMK74QVw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="6dSLkNAxxThYnMK74QVw-3" value="H264" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6dSLkNAxxThYnMK74QVw-4" value="判断编码标准" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="590" width="130" height="80" as="geometry" />
