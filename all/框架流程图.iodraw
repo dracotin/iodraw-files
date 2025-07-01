@@ -135,7 +135,7 @@
         <mxCell id="6dSLkNAxxThYnMK74QVw-5" value="调用hevc_codec实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dSLkNAxxThYnMK74QVw-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dSLkNAxxThYnMK74QVw-6" value="调用av1_codec实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
