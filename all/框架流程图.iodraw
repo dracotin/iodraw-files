@@ -90,8 +90,14 @@
         <mxCell id="YU9wYF5j6qoa5b9XvIR3-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 19px;&quot;&gt;VPU应用编程接口&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5dDUmu5k-5deCXkrSip--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5dDUmu5k-5deCXkrSip--1" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5dDUmu5k-5deCXkrSip--2" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5dDUmu5k-5deCXkrSip--3" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
