@@ -99,10 +99,10 @@
         <mxCell id="5dDUmu5k-5deCXkrSip--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5dDUmu5k-5deCXkrSip--4" value="视频处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5dDUmu5k-5deCXkrSip--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kL6pKXooHro4rIwPTTl_-1" value="设备管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kL6pKXooHro4rIwPTTl_-1" value="操作系统模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
