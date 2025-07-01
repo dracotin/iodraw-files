@@ -94,10 +94,13 @@
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5dDUmu5k-5deCXkrSip--2" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5dDUmu5k-5deCXkrSip--3" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5dDUmu5k-5deCXkrSip--4" value="编码模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
