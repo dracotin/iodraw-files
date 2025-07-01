@@ -147,7 +147,7 @@
         <mxCell id="l1BXJFGkX6SluAQH5nGx-1" value="硬件抽象层调用设备驱动操作硬件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1BXJFGkX6SluAQH5nGx-3" value="编解码任务完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l1BXJFGkX6SluAQH5nGx-3" value="编解码任务完成返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
