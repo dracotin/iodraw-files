@@ -123,7 +123,7 @@
         <mxCell id="6dSLkNAxxThYnMK74QVw-1" value="创建编解码对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dSLkNAxxThYnMK74QVw-2" value="接口抽象层接收请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6dSLkNAxxThYnMK74QVw-2" value="软件抽象层接收请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6dSLkNAxxThYnMK74QVw-3" value="调用avc_codec实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
