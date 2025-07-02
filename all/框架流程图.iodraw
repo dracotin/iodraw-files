@@ -849,6 +849,11 @@
             <mxPoint x="940" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EFtZfnYO_jnor5nYJAzl-27" value="设置电源状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-25">
+          <mxGeometry x="-0.6875" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
