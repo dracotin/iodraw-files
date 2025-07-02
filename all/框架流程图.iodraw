@@ -570,11 +570,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-25" value="执行命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-24">
-          <mxGeometry x="-0.04" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-29" target="3qCq5DHXi1mweFB4yW2y-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -590,20 +585,10 @@
             <mxPoint x="740" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-32" value="硬件执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
-          <mxGeometry x="-0.062" relative="1" as="geometry">
-            <mxPoint x="-80" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="490" as="sourcePoint" />
             <mxPoint x="540" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-34" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-33">
-          <mxGeometry x="0.066" relative="1" as="geometry">
-            <mxPoint x="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
