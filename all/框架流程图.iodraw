@@ -285,11 +285,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-28" value="更新写指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-25">
-          <mxGeometry y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="310" as="sourcePoint" />
