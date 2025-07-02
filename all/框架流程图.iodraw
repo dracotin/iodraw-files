@@ -229,7 +229,7 @@
         <mxCell id="_yuQL4rGsr8k884JRArQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_yuQL4rGsr8k884JRArQ-1" target="_yuQL4rGsr8k884JRArQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-1" value="软件抽象层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-2" value="软件抽象层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
