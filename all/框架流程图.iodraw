@@ -275,17 +275,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="260" as="sourcePoint" />
-            <mxPoint x="340" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="270" />
-              <mxPoint x="400" y="250" />
-              <mxPoint x="390" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
