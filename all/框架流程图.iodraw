@@ -438,12 +438,17 @@
         </mxCell>
         <mxCell id="an4c6iyDCaHHcNcit52B-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="430" as="sourcePoint" />
-            <mxPoint x="220" y="450" as="targetPoint" />
+            <mxPoint x="140" y="450" as="sourcePoint" />
+            <mxPoint x="140" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="430" />
-              <mxPoint x="260" y="450" />
+              <mxPoint x="180" y="450" />
+              <mxPoint x="180" y="470" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="an4c6iyDCaHHcNcit52B-3" value="执行其他任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="an4c6iyDCaHHcNcit52B-1">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
