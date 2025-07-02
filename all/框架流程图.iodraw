@@ -477,7 +477,7 @@
         <mxCell id="5F-7Ymnh-gFg4XwQSTPa-6" value="VPU硬件抽象层" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5F-7Ymnh-gFg4XwQSTPa-7" value="解码模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="5F-7Ymnh-gFg4XwQSTPa-7" value="寄存器管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5F-7Ymnh-gFg4XwQSTPa-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;通用配置模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
