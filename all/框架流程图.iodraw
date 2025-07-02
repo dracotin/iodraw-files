@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-24" value="" style="shape=mxgraph.arrows.u_turn_left_arrow;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="380" y="270" width="62" height="97" as="geometry" />
+          <mxGeometry x="338" y="260" width="62" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
