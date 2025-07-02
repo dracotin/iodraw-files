@@ -530,7 +530,7 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="250" as="sourcePoint" />
-            <mxPoint x="340" y="250" as="targetPoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-11" value="初始化阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-10">
@@ -541,7 +541,7 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="300" as="sourcePoint" />
-            <mxPoint x="340" y="300" as="targetPoint" />
+            <mxPoint x="300" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-11" value="命令执行阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-12">
