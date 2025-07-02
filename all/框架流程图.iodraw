@@ -590,8 +590,8 @@
             <mxPoint x="940" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-40" value="通知VPU命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
-          <mxGeometry x="-0.7375" relative="1" as="geometry">
+        <mxCell id="sQ35x0hi6ChjMlI58GtA-1" value="通知硬件开始执行命令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
+          <mxGeometry x="-0.675" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -747,11 +747,11 @@
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="490" as="sourcePoint" />
-            <mxPoint x="940" y="510" as="targetPoint" />
+            <mxPoint x="940" y="500" as="sourcePoint" />
+            <mxPoint x="940" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="980" y="490" />
-              <mxPoint x="980" y="510" />
+              <mxPoint x="980" y="500" />
+              <mxPoint x="980" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
