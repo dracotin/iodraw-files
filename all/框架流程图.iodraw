@@ -868,7 +868,7 @@
         <mxCell id="EFtZfnYO_jnor5nYJAzl-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="810" as="sourcePoint" />
-            <mxPoint x="140" y="810" as="targetPoint" />
+            <mxPoint x="300" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-32" value="传输完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-31">
