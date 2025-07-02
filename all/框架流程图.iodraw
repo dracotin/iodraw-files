@@ -522,10 +522,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-8" value="寄存器管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-9" value="设备驱动层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -556,17 +556,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-19" value="数据传输阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-18">
-          <mxGeometry x="-0.062" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="400" as="sourcePoint" />
-            <mxPoint x="540" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-23" value="标记新命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-22">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -614,7 +603,7 @@
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-32" value="硬件执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
           <mxGeometry x="-0.062" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
@@ -625,7 +614,7 @@
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-34" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-33">
           <mxGeometry x="0.066" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
@@ -709,17 +698,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-14" value="电源管理阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="A5WBHzLzEsHRKIc3lse1-13">
-          <mxGeometry x="-0.062" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="270" as="sourcePoint" />
-            <mxPoint x="540" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-16" value="初始化阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="A5WBHzLzEsHRKIc3lse1-15">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
