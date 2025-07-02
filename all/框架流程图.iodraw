@@ -411,8 +411,8 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="540" as="sourcePoint" />
-            <mxPoint x="340" y="540" as="targetPoint" />
+            <mxPoint x="540" y="530" as="sourcePoint" />
+            <mxPoint x="340" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-56" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-55">
