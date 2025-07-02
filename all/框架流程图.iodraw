@@ -728,6 +728,17 @@
         <mxCell id="A5WBHzLzEsHRKIc3lse1-10" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="960" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-14" value="数据传输阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="A5WBHzLzEsHRKIc3lse1-13">
+          <mxGeometry x="-0.062" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
