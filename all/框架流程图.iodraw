@@ -513,10 +513,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-5" value="硬件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-6" value="硬件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-8" target="3qCq5DHXi1mweFB4yW2y-9">
           <mxGeometry relative="1" as="geometry" />
@@ -641,11 +641,11 @@
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="530" as="sourcePoint" />
-            <mxPoint x="340" y="550" as="targetPoint" />
+            <mxPoint x="300" y="530" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="530" />
-              <mxPoint x="380" y="550" />
+              <mxPoint x="340" y="530" />
+              <mxPoint x="340" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -730,8 +730,8 @@
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="260" as="sourcePoint" />
-            <mxPoint x="350" y="260" as="targetPoint" />
+            <mxPoint x="340" y="270" as="sourcePoint" />
+            <mxPoint x="540" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-16" value="初始化阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="A5WBHzLzEsHRKIc3lse1-15">
