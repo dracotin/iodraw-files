@@ -760,10 +760,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFtZfnYO_jnor5nYJAzl-4" value="通过DMA传输数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-3">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="EFtZfnYO_jnor5nYJAzl-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="965" y="528" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
