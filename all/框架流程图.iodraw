@@ -585,7 +585,7 @@
             <mxPoint x="940" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-40" value="通知VPU命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-31">
           <mxGeometry x="-0.7375" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
