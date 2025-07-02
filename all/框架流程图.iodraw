@@ -507,7 +507,7 @@
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-3" value="软件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-5" target="3qCq5DHXi1mweFB4yW2y-6">
           <mxGeometry relative="1" as="geometry" />
@@ -516,7 +516,7 @@
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-6" value="硬件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-8" target="3qCq5DHXi1mweFB4yW2y-9">
           <mxGeometry relative="1" as="geometry" />
@@ -525,7 +525,7 @@
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-9" value="寄存器管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -577,7 +577,7 @@
           <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-30" value="DMA控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -619,7 +619,7 @@
           <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-5" value="中断处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="720" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A5WBHzLzEsHRKIc3lse1-9" target="A5WBHzLzEsHRKIc3lse1-10">
           <mxGeometry relative="1" as="geometry" />
@@ -628,7 +628,7 @@
           <mxGeometry x="880" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-10" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="880" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -889,8 +889,8 @@
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="820" as="sourcePoint" />
-            <mxPoint x="310" y="820" as="targetPoint" />
+            <mxPoint x="300" y="750" as="sourcePoint" />
+            <mxPoint x="140" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-37" value="返回配置结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-36">
