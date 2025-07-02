@@ -540,8 +540,8 @@
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="300" as="sourcePoint" />
-            <mxPoint x="300" y="300" as="targetPoint" />
+            <mxPoint x="140" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-11" value="命令执行阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-12">
@@ -724,7 +724,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-22" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-22" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="310" as="sourcePoint" />
             <mxPoint x="460" y="310" as="targetPoint" />
