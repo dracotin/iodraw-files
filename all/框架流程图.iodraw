@@ -354,17 +354,12 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="460" as="sourcePoint" />
-            <mxPoint x="540" y="480" as="targetPoint" />
+            <mxPoint x="740" y="480" as="sourcePoint" />
+            <mxPoint x="740" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="460" />
-              <mxPoint x="580" y="480" />
+              <mxPoint x="780" y="480" />
+              <mxPoint x="780" y="500" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-42" value="执行命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-39">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint x="191" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
