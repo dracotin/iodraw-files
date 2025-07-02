@@ -521,7 +521,7 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-8" target="3qCq5DHXi1mweFB4yW2y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="3qCq5DHXi1mweFB4yW2y-8" value="寄存器管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-9" value="设备驱动层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -600,7 +600,7 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-29" target="3qCq5DHXi1mweFB4yW2y-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-29" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="3qCq5DHXi1mweFB4yW2y-29" value="DMA控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-30" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
