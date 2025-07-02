@@ -845,8 +845,8 @@
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="780" as="sourcePoint" />
-            <mxPoint x="940" y="780" as="targetPoint" />
+            <mxPoint x="460" y="800" as="sourcePoint" />
+            <mxPoint x="940" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-27" value="设置电源状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-25">
@@ -856,8 +856,8 @@
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="800" as="sourcePoint" />
-            <mxPoint x="460" y="800" as="targetPoint" />
+            <mxPoint x="940" y="820" as="sourcePoint" />
+            <mxPoint x="460" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-30" value="更新电源状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-28">
@@ -878,8 +878,8 @@
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="820" as="sourcePoint" />
-            <mxPoint x="140" y="820" as="targetPoint" />
+            <mxPoint x="300" y="840" as="sourcePoint" />
+            <mxPoint x="140" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EFtZfnYO_jnor5nYJAzl-35" value="电源状态切换完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-34">
