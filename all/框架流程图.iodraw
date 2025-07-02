@@ -860,8 +860,8 @@
             <mxPoint x="460" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFtZfnYO_jnor5nYJAzl-29" value="传输完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-28">
-          <mxGeometry x="-0.5125" relative="1" as="geometry">
+        <mxCell id="EFtZfnYO_jnor5nYJAzl-30" value="更新电源状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EFtZfnYO_jnor5nYJAzl-28">
+          <mxGeometry x="-0.6875" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
