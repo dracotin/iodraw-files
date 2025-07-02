@@ -706,11 +706,11 @@
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="480" as="sourcePoint" />
-            <mxPoint x="760" y="500" as="targetPoint" />
+            <mxPoint x="1020" y="460" as="sourcePoint" />
+            <mxPoint x="1020" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="480" />
-              <mxPoint x="800" y="500" />
+              <mxPoint x="1060" y="460" />
+              <mxPoint x="1060" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -722,11 +722,11 @@
         <mxCell id="A5WBHzLzEsHRKIc3lse1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A5WBHzLzEsHRKIc3lse1-9" target="A5WBHzLzEsHRKIc3lse1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-9" value="DMA控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-9" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WBHzLzEsHRKIc3lse1-10" value="DMA控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="700" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
