@@ -354,11 +354,11 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="470" as="sourcePoint" />
-            <mxPoint x="740" y="490" as="targetPoint" />
+            <mxPoint x="740" y="460" as="sourcePoint" />
+            <mxPoint x="740" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="470" />
-              <mxPoint x="780" y="490" />
+              <mxPoint x="780" y="460" />
+              <mxPoint x="780" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -389,8 +389,8 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="450" as="sourcePoint" />
-            <mxPoint x="740" y="450" as="targetPoint" />
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="740" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-50" value="硬件执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-49">
@@ -400,8 +400,8 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="510" as="sourcePoint" />
-            <mxPoint x="540" y="510" as="targetPoint" />
+            <mxPoint x="740" y="490" as="sourcePoint" />
+            <mxPoint x="540" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-54" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-52">
