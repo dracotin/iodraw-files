@@ -601,13 +601,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
+        <mxCell id="3qCq5DHXi1mweFB4yW2y-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="610" as="sourcePoint" />
             <mxPoint x="300" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-36" value="更新缓冲区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-35">
+        <mxCell id="3qCq5DHXi1mweFB4yW2y-36" value="返回状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-35">
           <mxGeometry x="0.066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
