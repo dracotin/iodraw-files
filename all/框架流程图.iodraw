@@ -206,7 +206,7 @@
         <mxCell id="htpD-w1H5gS5okBXEkuh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="htpD-w1H5gS5okBXEkuh-25" target="htpD-w1H5gS5okBXEkuh-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htpD-w1H5gS5okBXEkuh-25" value="编解码任务完成返回结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="htpD-w1H5gS5okBXEkuh-25" value="编解码任务完成通知逻辑层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="354" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="htpD-w1H5gS5okBXEkuh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="htpD-w1H5gS5okBXEkuh-27" target="htpD-w1H5gS5okBXEkuh-28" edge="1">
