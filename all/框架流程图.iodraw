@@ -512,7 +512,7 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3qCq5DHXi1mweFB4yW2y-5" target="3qCq5DHXi1mweFB4yW2y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-5" value="命令缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="3qCq5DHXi1mweFB4yW2y-5" value="硬件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-6" value="命令缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -549,16 +549,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="310" as="sourcePoint" />
-            <mxPoint x="340" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="310" />
-              <mxPoint x="380" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="350" as="sourcePoint" />
@@ -568,16 +558,6 @@
         <mxCell id="3qCq5DHXi1mweFB4yW2y-19" value="提交命令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-18">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3qCq5DHXi1mweFB4yW2y-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="360" as="sourcePoint" />
-            <mxPoint x="340" y="380" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="360" />
-              <mxPoint x="380" y="380" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3qCq5DHXi1mweFB4yW2y-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
