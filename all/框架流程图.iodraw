@@ -131,7 +131,7 @@
         <mxCell id="htpD-w1H5gS5okBXEkuh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="htpD-w1H5gS5okBXEkuh-2" target="htpD-w1H5gS5okBXEkuh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htpD-w1H5gS5okBXEkuh-2" value="创建编解码对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="htpD-w1H5gS5okBXEkuh-2" value="打开设备并创建编解码对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="htpD-w1H5gS5okBXEkuh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="htpD-w1H5gS5okBXEkuh-4" target="htpD-w1H5gS5okBXEkuh-13" edge="1">
