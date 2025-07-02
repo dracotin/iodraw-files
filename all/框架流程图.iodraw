@@ -253,29 +253,29 @@
         <mxCell id="_yuQL4rGsr8k884JRArQ-9" value="设备驱动层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="250" as="sourcePoint" />
             <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-11" value="添加命令1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-10">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-11" value="添加命令1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-10">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="300" as="sourcePoint" />
             <mxPoint x="340" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-13" value="添加命令2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-12">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-13" value="添加命令2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-12">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="260" as="sourcePoint" />
             <mxPoint x="340" y="280" as="targetPoint" />
@@ -285,7 +285,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-28" value="更新写指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-25">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_yuQL4rGsr8k884JRArQ-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="310" as="sourcePoint" />
             <mxPoint x="340" y="330" as="targetPoint" />
@@ -295,23 +300,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-31" value="更新写指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-26">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-31" value="更新写指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-26">
           <mxGeometry x="-0.02" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="350" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-33" value="提交命令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-32">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-33" value="提交命令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-32">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="360" as="sourcePoint" />
             <mxPoint x="340" y="380" as="targetPoint" />
@@ -321,23 +326,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-35" value="更新提交指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-34">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-35" value="更新提交指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-34">
           <mxGeometry x="-0.04" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="400" as="sourcePoint" />
             <mxPoint x="540" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-37" value="标记新命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-36">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-37" value="标记新命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-36">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="460" as="sourcePoint" />
             <mxPoint x="740" y="480" as="targetPoint" />
@@ -347,18 +352,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-51" value="执行命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-39">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-51" value="执行命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-39">
           <mxGeometry x="-0.04" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="430" as="sourcePoint" />
             <mxPoint x="340" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-62" value="读取命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-40">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-62" value="读取命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-40">
           <mxGeometry x="0.108" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -372,40 +377,40 @@
         <mxCell id="_yuQL4rGsr8k884JRArQ-48" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="440" as="sourcePoint" />
             <mxPoint x="740" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-50" value="硬件执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-49">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-50" value="硬件执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-49">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="490" as="sourcePoint" />
             <mxPoint x="540" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-54" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-52">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-54" value="中断处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-52">
           <mxGeometry x="0.066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="510" as="sourcePoint" />
             <mxPoint x="340" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-56" value="更新缓冲区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-55">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-56" value="更新缓冲区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-55">
           <mxGeometry x="0.066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="530" as="sourcePoint" />
             <mxPoint x="340" y="550" as="targetPoint" />
@@ -415,24 +420,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-58" value="更新读指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-57">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-58" value="更新读指针" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-57">
           <mxGeometry x="0.02" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-59" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-59" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="570" as="sourcePoint" />
             <mxPoint x="140" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-61" value="通知任务完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-59">
+        <mxCell id="_yuQL4rGsr8k884JRArQ-61" value="通知任务完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-59">
           <mxGeometry x="0.528" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_yuQL4rGsr8k884JRArQ-63" value="更新写指针" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="258" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
