@@ -343,8 +343,8 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="410" as="sourcePoint" />
-            <mxPoint x="540" y="410" as="targetPoint" />
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-37" value="标记新命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-36">
@@ -369,8 +369,8 @@
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="440" as="sourcePoint" />
-            <mxPoint x="340" y="440" as="targetPoint" />
+            <mxPoint x="540" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yuQL4rGsr8k884JRArQ-41" value="读取命令1-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_yuQL4rGsr8k884JRArQ-40">
