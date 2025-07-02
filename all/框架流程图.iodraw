@@ -596,7 +596,7 @@
             <mxPoint x="780" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFtZfnYO_jnor5nYJAzl-7" value="命令执行完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-33">
+        <mxCell id="EFtZfnYO_jnor5nYJAzl-7" value="触发中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-33">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
