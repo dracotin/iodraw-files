@@ -928,8 +928,14 @@
         <mxCell id="PgGOT4ecvue2y20V6z6U-1" value="硬件抽象层调用&lt;div&gt;统一接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-1" target="7tGsYjV0Tvyhc8WSTGqo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用A寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-3" target="7tGsYjV0Tvyhc8WSTGqo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-3" value="使用B寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
