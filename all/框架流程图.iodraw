@@ -1032,7 +1032,7 @@
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-8" value="DMA fence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaOZFwhZ43WMwTOFJZO4-9" value="设备驱动层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WaOZFwhZ43WMwTOFJZO4-9" value="DMA fence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
