@@ -1041,18 +1041,18 @@
             <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaOZFwhZ43WMwTOFJZO4-11" value="调用硬件抽象接口发送任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-10">
+        <mxCell id="WaOZFwhZ43WMwTOFJZO4-11" value="调用硬件抽象接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-10">
           <mxGeometry x="-0.062" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="400" as="sourcePoint" />
-            <mxPoint x="540" y="400" as="targetPoint" />
+            <mxPoint x="300" y="270" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WaOZFwhZ43WMwTOFJZO4-23" value="标记新命令位置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-22">
+        <mxCell id="WaOZFwhZ43WMwTOFJZO4-23" value="解析任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-22">
           <mxGeometry x="-0.062" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
