@@ -925,7 +925,7 @@
         <mxCell id="PgGOT4ecvue2y20V6z6U-1" value="硬件抽象层调用&lt;div&gt;统一接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用型号A寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用A寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-3" value="使用B寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
