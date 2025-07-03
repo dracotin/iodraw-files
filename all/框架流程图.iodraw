@@ -943,6 +943,15 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-7" value="加载C支持的特性表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-11" target="7tGsYjV0Tvyhc8WSTGqo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-11" target="7tGsYjV0Tvyhc8WSTGqo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-11" target="7tGsYjV0Tvyhc8WSTGqo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-11" value="检测VPU硬件型号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="210" width="120" height="80" as="geometry" />
         </mxCell>
