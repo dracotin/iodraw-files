@@ -544,7 +544,7 @@
             <mxPoint x="300" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5WBHzLzEsHRKIc3lse1-11" value="编解码阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-12">
+        <mxCell id="A5WBHzLzEsHRKIc3lse1-11" value="命令执行阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3qCq5DHXi1mweFB4yW2y-12">
           <mxGeometry x="-0.028" y="1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
