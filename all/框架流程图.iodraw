@@ -946,8 +946,14 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-4" value="使用C寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-5" target="7tGsYjV0Tvyhc8WSTGqo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-5" value="加载A支持的特性表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-6" target="7tGsYjV0Tvyhc8WSTGqo-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-6" value="加载B支持的特性表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
