@@ -928,7 +928,7 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用型号A寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7tGsYjV0Tvyhc8WSTGqo-3">
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-11" target="7tGsYjV0Tvyhc8WSTGqo-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="300" as="sourcePoint" />
           </mxGeometry>
@@ -952,6 +952,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="416.4000000000001" y="211.98000000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
