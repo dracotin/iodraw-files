@@ -1284,14 +1284,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwmEU-raWpPwWI7TcCQT-28" value="计划延迟过程调用任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-27">
+        <mxCell id="zwmEU-raWpPwWI7TcCQT-28" value="处理延迟过程调用任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-27">
           <mxGeometry x="-0.04" y="-3" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zwmEU-raWpPwWI7TcCQT-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-27">
-          <mxGeometry x="-0.04" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
