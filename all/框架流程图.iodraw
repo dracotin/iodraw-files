@@ -1015,7 +1015,7 @@
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-3" value="软件抽象层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaOZFwhZ43WMwTOFJZO4-5" target="WaOZFwhZ43WMwTOFJZO4-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1024,7 +1024,7 @@
           <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-6" value="命令缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WaOZFwhZ43WMwTOFJZO4-8" target="WaOZFwhZ43WMwTOFJZO4-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1033,7 +1033,7 @@
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-9" value="设备驱动层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1157,7 +1157,7 @@
           <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-30" value="视频编解码硬件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1209,8 +1209,8 @@
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="570" as="sourcePoint" />
-            <mxPoint x="140" y="570" as="targetPoint" />
+            <mxPoint x="540" y="740" as="sourcePoint" />
+            <mxPoint x="140" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-40" value="通知任务完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-39">
