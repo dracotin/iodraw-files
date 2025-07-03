@@ -925,8 +925,8 @@
         <mxCell id="PgGOT4ecvue2y20V6z6U-1" value="硬件抽象层调用&lt;div&gt;统一接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-2" value="检测VPU硬件型号" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="339" y="210" width="150" height="90" as="geometry" />
@@ -935,7 +935,7 @@
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
