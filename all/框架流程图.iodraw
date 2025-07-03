@@ -948,13 +948,8 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-7" value="加载C支持的特性表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PgGOT4ecvue2y20V6z6U-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416.4000000000001" y="211.98000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
