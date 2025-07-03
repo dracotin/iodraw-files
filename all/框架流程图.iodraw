@@ -934,7 +934,7 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-3" value="使用B寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-4" value="使用C寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
