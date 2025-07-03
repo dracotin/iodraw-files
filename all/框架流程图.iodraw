@@ -1041,6 +1041,11 @@
             <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zwmEU-raWpPwWI7TcCQT-2" value="发起任务并传递参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-10">
+          <mxGeometry x="-0.0625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaOZFwhZ43WMwTOFJZO4-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="270" as="sourcePoint" />
