@@ -1131,6 +1131,11 @@
             <mxPoint x="140" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zwmEU-raWpPwWI7TcCQT-24" value="异步通知任务完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaOZFwhZ43WMwTOFJZO4-39">
+          <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u_etClZ9X6-uXq314S8T-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="520" as="sourcePoint" />
