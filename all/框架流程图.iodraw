@@ -928,11 +928,10 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-1" value="使用型号A寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7tGsYjV0Tvyhc8WSTGqo-2" target="7tGsYjV0Tvyhc8WSTGqo-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-2" value="检测VPU硬件型号" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="339" y="210" width="150" height="90" as="geometry" />
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7tGsYjV0Tvyhc8WSTGqo-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-3" value="使用B寄存器映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
@@ -949,8 +948,10 @@
         <mxCell id="7tGsYjV0Tvyhc8WSTGqo-7" value="加载C支持的特性表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PgGOT4ecvue2y20V6z6U-1" target="7tGsYjV0Tvyhc8WSTGqo-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7tGsYjV0Tvyhc8WSTGqo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PgGOT4ecvue2y20V6z6U-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.4000000000001" y="211.98000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
