@@ -1315,7 +1315,7 @@
         <mxCell id="STOK2hA1yAMLQGC0fV7W-3" value="依赖fence触发后&lt;div&gt;继续执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="STOK2hA1yAMLQGC0fV7W-7" value="依赖VPU结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-7" value="触发fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-8" value="依赖VPU结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
