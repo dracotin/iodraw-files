@@ -1173,8 +1173,8 @@
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="480" as="sourcePoint" />
-            <mxPoint x="620" y="480" as="targetPoint" />
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-6" value="关联cur_fence与中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-5">
@@ -1184,8 +1184,8 @@
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="500" as="sourcePoint" />
-            <mxPoint x="620" y="500" as="targetPoint" />
+            <mxPoint x="300" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-8" value="启动任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-7">
