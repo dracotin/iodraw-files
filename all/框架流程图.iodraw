@@ -1322,9 +1322,9 @@
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-9" value="初始化状态：未完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="STOK2hA1yAMLQGC0fV7W-10" value="触发fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-10" value="创建fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
