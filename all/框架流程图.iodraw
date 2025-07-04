@@ -1396,7 +1396,7 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PNHOYcXOYIYjL1Ag9m12-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-2" value="获取所有硬件状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
