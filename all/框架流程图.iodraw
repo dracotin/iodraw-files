@@ -1399,7 +1399,7 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-1" target="PNHOYcXOYIYjL1Ag9m12-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PNHOYcXOYIYjL1Ag9m12-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PNHOYcXOYIYjL1Ag9m12-13">
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-19" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PNHOYcXOYIYjL1Ag9m12-13">
           <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1426,6 +1426,9 @@
         </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-4" value="计算每个VPU上所有实例的负载评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-5" target="PNHOYcXOYIYjL1Ag9m12-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-5" value="选择空闲VPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
