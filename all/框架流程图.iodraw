@@ -1366,8 +1366,8 @@
         <mxCell id="STOK2hA1yAMLQGC0fV7W-15" value="唤醒所有等待者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="STOK2hA1yAMLQGC0fV7W-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="68" width="50" height="30" as="geometry" />
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-29" value="DMA Fence管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="68" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
