@@ -1405,7 +1405,7 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-4" value="检查VPU实例状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PNHOYcXOYIYjL1Ag9m12-5" value="分配任务到空闲VPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-5" value="选择空闲VPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-6" value="计算每个VPU实例负载评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
