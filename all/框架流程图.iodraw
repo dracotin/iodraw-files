@@ -1393,6 +1393,9 @@
         <mxCell id="ymtmxjfsiVnRgeBfqXq3-1" value="硬件任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
