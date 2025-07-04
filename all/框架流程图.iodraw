@@ -1367,7 +1367,10 @@
           <mxGeometry x="827" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-29" value="DMA Fence管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="68" width="130" height="30" as="geometry" />
+          <mxGeometry x="570" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-30" value="DMA Fence管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
