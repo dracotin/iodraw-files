@@ -1304,28 +1304,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jJIqsdBLO4iq2-zsxUX0-1" value="依赖VPU结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="STOK2hA1yAMLQGC0fV7W-2" target="STOK2hA1yAMLQGC0fV7W-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-2" value="等待依赖fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-3" value="依赖fence触发后&lt;div&gt;继续执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="STOK2hA1yAMLQGC0fV7W-7" target="STOK2hA1yAMLQGC0fV7W-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-7" value="触发fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="STOK2hA1yAMLQGC0fV7W-8" target="STOK2hA1yAMLQGC0fV7W-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-8" value="更新状态：已完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-9" value="初始化状态：未完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="360" width="120" height="60" as="geometry" />
@@ -1358,7 +1358,7 @@
           <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-15" value="唤醒所有等待者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
