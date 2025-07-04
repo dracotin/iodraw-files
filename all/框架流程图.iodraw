@@ -1420,7 +1420,7 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-9" value="创建新的实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PNHOYcXOYIYjL1Ag9m12-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-10" value="更新硬件状态和实例负载状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
