@@ -1206,8 +1206,8 @@
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="590" as="sourcePoint" />
-            <mxPoint x="300" y="590" as="targetPoint" />
+            <mxPoint x="620" y="585" as="sourcePoint" />
+            <mxPoint x="300" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-13" value="触发硬件中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-12">
@@ -1217,8 +1217,8 @@
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="610" as="sourcePoint" />
-            <mxPoint x="620" y="610" as="targetPoint" />
+            <mxPoint x="300" y="600" as="sourcePoint" />
+            <mxPoint x="620" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-15" value="中断例程处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-14">
@@ -1239,8 +1239,8 @@
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="710" as="sourcePoint" />
-            <mxPoint x="780" y="710" as="targetPoint" />
+            <mxPoint x="460" y="700" as="sourcePoint" />
+            <mxPoint x="780" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwmEU-raWpPwWI7TcCQT-21" value="cur_fence唤醒等待" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zwmEU-raWpPwWI7TcCQT-19">
