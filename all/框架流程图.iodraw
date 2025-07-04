@@ -1301,7 +1301,10 @@
           <mxGeometry x="40" y="150" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="jJIqsdBLO4iq2-zsxUX0-1" value="依赖VPU结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-2" value="依赖VPU结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
