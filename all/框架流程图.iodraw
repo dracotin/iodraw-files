@@ -1396,9 +1396,6 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-1" value="是否有空闲VPU" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PNHOYcXOYIYjL1Ag9m12-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-3" value="获取所有硬件负载状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
