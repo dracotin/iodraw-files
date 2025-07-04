@@ -1322,7 +1322,7 @@
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-9" value="初始化状态：未完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-10" value="创建fence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
@@ -1331,7 +1331,7 @@
           <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-12" value="返回成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-13" value="检查状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="250" width="80" height="80" as="geometry" />
@@ -1340,7 +1340,7 @@
           <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-15" value="唤醒所有等待者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
