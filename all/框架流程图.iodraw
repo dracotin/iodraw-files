@@ -1399,6 +1399,9 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-1" target="PNHOYcXOYIYjL1Ag9m12-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-1" target="PNHOYcXOYIYjL1Ag9m12-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-1" value="是否有空闲VPU" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1417,8 +1420,14 @@
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-5" value="选择空闲VPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-7" target="PNHOYcXOYIYjL1Ag9m12-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-7" value="选择负载最小的VPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PNHOYcXOYIYjL1Ag9m12-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNHOYcXOYIYjL1Ag9m12-9" target="PNHOYcXOYIYjL1Ag9m12-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PNHOYcXOYIYjL1Ag9m12-9" value="创建新的实例处理任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="650" width="120" height="60" as="geometry" />
