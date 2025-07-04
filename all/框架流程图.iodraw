@@ -1354,10 +1354,15 @@
         <mxCell id="STOK2hA1yAMLQGC0fV7W-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="STOK2hA1yAMLQGC0fV7W-13" target="STOK2hA1yAMLQGC0fV7W-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-32" value="未完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="STOK2hA1yAMLQGC0fV7W-20">
+          <mxGeometry x="-0.2533" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="STOK2hA1yAMLQGC0fV7W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="STOK2hA1yAMLQGC0fV7W-13" target="STOK2hA1yAMLQGC0fV7W-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="STOK2hA1yAMLQGC0fV7W-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="STOK2hA1yAMLQGC0fV7W-22">
+        <mxCell id="STOK2hA1yAMLQGC0fV7W-31" value="已完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="STOK2hA1yAMLQGC0fV7W-22">
           <mxGeometry x="-0.3448" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
