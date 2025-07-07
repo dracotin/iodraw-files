@@ -1463,10 +1463,10 @@
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-3" value="处理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-4" value="视频处理单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
