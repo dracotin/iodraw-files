@@ -1471,10 +1471,16 @@
         <mxCell id="zqbUcGo2rp88s7FBPn4X-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="325" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zqbUcGo2rp88s7FBPn4X-18" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=14;endSize=7.13;" edge="1" parent="1">
+        <mxCell id="zqbUcGo2rp88s7FBPn4X-18" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=14;endSize=3.8;startWidth=14;startSize=3.8;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="340" y="400" as="sourcePoint" />
             <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqbUcGo2rp88s7FBPn4X-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=14;endSize=3.8;startWidth=14;startSize=3.8;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="sourcePoint" />
+            <mxPoint x="420" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
