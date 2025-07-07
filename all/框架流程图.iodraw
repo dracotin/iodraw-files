@@ -1459,6 +1459,9 @@
         <mxCell id="zqbUcGo2rp88s7FBPn4X-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="530" height="530" as="geometry" />
         </mxCell>
+        <mxCell id="zqbUcGo2rp88s7FBPn4X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
