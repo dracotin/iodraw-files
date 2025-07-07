@@ -1499,7 +1499,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-25" value="" style="swimlane;startSize=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="121" width="460" height="383" as="geometry" />
+          <mxGeometry x="120" y="121" width="460" height="383" as="geometry">
+            <mxRectangle x="120" y="121" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
