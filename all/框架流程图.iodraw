@@ -1466,7 +1466,7 @@
           <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-4" value="视频处理单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="292.5" width="325" height="40" as="geometry" />
@@ -1493,7 +1493,7 @@
           <mxGeometry x="245" y="148" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zqbUcGo2rp88s7FBPn4X-22" value="处理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="148" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
