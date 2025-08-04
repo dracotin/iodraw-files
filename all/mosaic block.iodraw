@@ -592,7 +592,7 @@
             <mxPoint x="679.5" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nuQRFsozDfYy_eus374R-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nuQRFsozDfYy_eus374R-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="650" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -753,9 +753,6 @@
             <mxPoint x="180" y="760" as="sourcePoint" />
             <mxPoint x="230" y="710" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="b-kD9C8oCon1TIOQSGa4-14" value="start_a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
