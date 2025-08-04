@@ -1593,7 +1593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ps8kviw4mDA0v0ekwH8X-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="580" width="10" height="20" as="geometry" />
+          <mxGeometry x="650" y="580" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ps8kviw4mDA0v0ekwH8X-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="750" y="580" width="20" height="20" as="geometry" />
