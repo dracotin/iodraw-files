@@ -2459,6 +2459,12 @@
         <mxCell id="PtFltYpwFAF2wkLFTt-Q-14" value="更新为从左复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15" y="608" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PtFltYpwFAF2wkLFTt-Q-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="500" as="sourcePoint" />
+            <mxPoint x="230" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
