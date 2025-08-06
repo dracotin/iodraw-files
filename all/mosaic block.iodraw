@@ -2983,12 +2983,12 @@
         </mxCell>
         <mxCell id="J0_aBVStf2EWu_D9gwgU-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="790" as="sourcePoint" />
+            <mxPoint x="120" y="730" as="sourcePoint" />
             <mxPoint x="180" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0_aBVStf2EWu_D9gwgU-14" value="更新为从左复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="788" width="110" height="30" as="geometry" />
+          <mxGeometry x="20" y="710" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
