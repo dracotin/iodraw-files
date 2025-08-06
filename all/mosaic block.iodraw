@@ -2906,6 +2906,9 @@
             <mxPoint x="250" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BKjzBhBw1jqfQ8vtlhTL-38" value="更新为从左复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="758" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
