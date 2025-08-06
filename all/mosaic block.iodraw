@@ -3255,15 +3255,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0_aBVStf2EWu_D9gwgU-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="1200" as="sourcePoint" />
-            <mxPoint x="230" y="1222.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J0_aBVStf2EWu_D9gwgU-134" value="设置新的起始点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1190" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J0_aBVStf2EWu_D9gwgU-135" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="610" y="1222.5" width="45" height="45" as="geometry" />
         </mxCell>
