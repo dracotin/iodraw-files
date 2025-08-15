@@ -43,14 +43,11 @@
         <mxCell id="f1" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
           <mxGeometry x="80" y="40" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2" value="3. program_hw()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
-          <mxGeometry x="300" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f3" value="6. handle_irq()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
-          <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-16" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
           <mxGeometry x="80" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="useX_EbVY-uAOrKN3GWp-19" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
+          <mxGeometry x="460" y="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="760" height="240" as="geometry">
@@ -66,23 +63,26 @@
         <mxCell id="w2" value="5. irq_done()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4KZ_NclhhC6ZEy1baaVN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D" parent="1" source="f2" target="w1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4KZ_NclhhC6ZEy1baaVN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D" parent="1" target="w1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4KZ_NclhhC6ZEy1baaVN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D;dashed=1" parent="1" source="w2" target="f3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4KZ_NclhhC6ZEy1baaVN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D;dashed=1" parent="1" source="w2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4KZ_NclhhC6ZEy1baaVN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D" parent="1" source="f3" target="h2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4KZ_NclhhC6ZEy1baaVN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D" parent="1" target="h2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-17" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-18" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="useX_EbVY-uAOrKN3GWp-19" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
