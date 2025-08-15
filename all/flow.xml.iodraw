@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="host-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-80" width="760" height="240" as="geometry" />
+          <mxGeometry x="50" y="-80" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="host-title" value="Host" style="text;html=1;fontSize=16;fontStyle=1" parent="host-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
