@@ -41,7 +41,7 @@
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f1" value="2. parse_cmd()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
-          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2" value="3. program_hw()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
           <mxGeometry x="300" y="40" width="120" height="40" as="geometry" />
