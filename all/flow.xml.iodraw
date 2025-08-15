@@ -40,7 +40,7 @@
         <mxCell id="fw-title" value="FW" style="text;html=1;fontSize=16;fontStyle=1" parent="fw-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f1" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;treeFolding=0;" parent="fw-lane" vertex="1">
+        <mxCell id="f1" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;treeFolding=1;" parent="fw-lane" vertex="1" collapsed="1">
           <mxGeometry x="80" y="40" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-16" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
