@@ -31,8 +31,10 @@
         <mxCell id="f3" value="6. handle_irq()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
           <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="280" width="760" height="120" as="geometry" />
+        <mxCell id="hw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="40" y="280" width="50" height="40" as="geometry">
+            <mxRectangle x="40" y="280" width="760" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hw-title" value="HW" style="text;html=1;fontSize=16;fontStyle=1" parent="hw-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
