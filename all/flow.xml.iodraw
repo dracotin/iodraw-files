@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="host-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-40" width="760" height="200" as="geometry" />
+          <mxGeometry x="50" y="-100" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="host-title" value="Host" style="text;html=1;fontSize=16;fontStyle=1" parent="host-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="useX_EbVY-uAOrKN3GWp-7" value="host_enc()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="host-lane">
           <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="useX_EbVY-uAOrKN3GWp-9" value="main()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="host-lane">
+        <mxCell id="useX_EbVY-uAOrKN3GWp-9" value="host_api()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="host-lane">
           <mxGeometry x="120" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
