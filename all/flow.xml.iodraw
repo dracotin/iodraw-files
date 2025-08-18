@@ -48,12 +48,6 @@
         <mxCell id="f1" value="fw_com_main_entry()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;treeFolding=1;" parent="fw-lane" vertex="1">
           <mxGeometry x="80" y="20" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="useX_EbVY-uAOrKN3GWp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fw-lane">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="-15" as="sourcePoint" />
-            <mxPoint x="280" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-16" value="fw_com_enc_pic()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
           <mxGeometry x="80" y="180" width="160" height="30" as="geometry" />
         </mxCell>
