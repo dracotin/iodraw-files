@@ -103,6 +103,9 @@
             <mxPoint x="580" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="useX_EbVY-uAOrKN3GWp-31" value="fw_com_enc_vce_run()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
