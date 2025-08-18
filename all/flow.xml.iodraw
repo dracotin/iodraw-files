@@ -79,6 +79,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="useX_EbVY-uAOrKN3GWp-31" value="s_encoder_vce_run()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
+          <mxGeometry x="280" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="760" height="240" as="geometry">
             <mxRectangle x="40" y="280" width="50" height="40" as="alternateBounds" />
@@ -102,9 +105,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="200" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="useX_EbVY-uAOrKN3GWp-31" value="fw_com_enc_vce_run()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
