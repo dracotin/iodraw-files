@@ -83,11 +83,6 @@
         <mxCell id="w2" value="5. irq_done()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="480" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4KZ_NclhhC6ZEy1baaVN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D" parent="1" target="w1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4KZ_NclhhC6ZEy1baaVN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D;dashed=1" parent="1" source="w2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="240" as="targetPoint" />
