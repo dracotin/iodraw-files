@@ -105,6 +105,9 @@
         <mxCell id="0jp1Te20cRFEQFLkPz37-3" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
           <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-4" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
+          <mxGeometry x="90" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="4KZ_NclhhC6ZEy1baaVN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4D4D4D;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="w2" edge="1" target="useX_EbVY-uAOrKN3GWp-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="240" as="targetPoint" />
