@@ -96,7 +96,7 @@
         <mxCell id="hw-title" value="HW" style="text;html=1;fontSize=16;fontStyle=1" parent="hw-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w1" value="4. execute_task()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
+        <mxCell id="w1" value="hw_ctl_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="80" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w2" value="5. irq_done()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
