@@ -34,6 +34,9 @@
         <mxCell id="useX_EbVY-uAOrKN3GWp-12" value="main()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="host-lane" vertex="1">
           <mxGeometry x="80" y="20" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-10" value="s_host_get_enc_info()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="host-lane">
+          <mxGeometry x="540" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="fw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="760" height="240" as="geometry">
             <mxRectangle x="40" y="160" width="50" height="40" as="alternateBounds" />
