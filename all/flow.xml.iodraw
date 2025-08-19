@@ -41,7 +41,7 @@
           <mxGeometry x="520" y="110" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="40" y="150" width="760" height="240" as="geometry">
+          <mxGeometry x="40" y="160" width="760" height="240" as="geometry">
             <mxRectangle x="40" y="160" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -109,8 +109,11 @@
         <mxCell id="0jp1Te20cRFEQFLkPz37-7" value="FW_REG_WR" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
           <mxGeometry x="520" y="20" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fw-lane" source="0jp1Te20cRFEQFLkPz37-19" target="0jp1Te20cRFEQFLkPz37-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-19" value="check_sub_pic_done()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
-          <mxGeometry x="520" y="180" width="160" height="30" as="geometry" />
+          <mxGeometry x="520" y="170" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-5" value="s_set_pic_out()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="fw-lane">
           <mxGeometry x="520" y="120" width="160" height="30" as="geometry" />
