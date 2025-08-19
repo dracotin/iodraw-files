@@ -110,7 +110,7 @@
           <mxGeometry x="520" y="45" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hw-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="390" width="760" height="240" as="geometry">
+          <mxGeometry x="40" y="400" width="760" height="240" as="geometry">
             <mxRectangle x="40" y="280" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -124,13 +124,13 @@
           <mxGeometry x="540" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-3" value="s_ctl_run_tile_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
-          <mxGeometry x="80" y="160" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-4" value="hw_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
           <mxGeometry x="80" y="30" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-17" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
-          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="145" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="useX_EbVY-uAOrKN3GWp-11" target="f1" edge="1">
           <mxGeometry relative="1" as="geometry" />
