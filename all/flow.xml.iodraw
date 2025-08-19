@@ -123,8 +123,8 @@
         <mxCell id="w2" value="5. irq_done()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="540" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0jp1Te20cRFEQFLkPz37-3" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
-          <mxGeometry x="70" y="145" width="120" height="40" as="geometry" />
+        <mxCell id="0jp1Te20cRFEQFLkPz37-3" value="s_ctl_run_tile_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-4" value="hw_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
           <mxGeometry x="80" y="30" width="120" height="40" as="geometry" />
