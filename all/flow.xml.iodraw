@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="host-lane" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-80" width="760" height="240" as="geometry" />
+          <mxGeometry x="40" y="-80" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="host-title" value="Host" style="text;html=1;fontSize=16;fontStyle=1" parent="host-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h2" value="7. recv_result()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="host-lane" vertex="1">
-          <mxGeometry x="530" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="host-lane" source="useX_EbVY-uAOrKN3GWp-7" target="useX_EbVY-uAOrKN3GWp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,8 +123,10 @@
         <mxCell id="0jp1Te20cRFEQFLkPz37-5" value="s_set_pic_out()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0jp1Te20cRFEQFLkPz37-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0jp1Te20cRFEQFLkPz37-7" target="h2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0jp1Te20cRFEQFLkPz37-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0jp1Te20cRFEQFLkPz37-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
