@@ -51,7 +51,7 @@
         <mxCell id="useX_EbVY-uAOrKN3GWp-16" value="fw_com_enc_pic()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
           <mxGeometry x="80" y="180" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="useX_EbVY-uAOrKN3GWp-19" value="s_set_pic_out()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
+        <mxCell id="useX_EbVY-uAOrKN3GWp-19" value="fw_com_enc_pic_out()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
           <mxGeometry x="520" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="useX_EbVY-uAOrKN3GWp-18" value="fw_com_enc_vce_run()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fw-lane" vertex="1">
