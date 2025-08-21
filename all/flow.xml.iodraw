@@ -153,8 +153,11 @@
         <mxCell id="0jp1Te20cRFEQFLkPz37-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0jp1Te20cRFEQFLkPz37-7" target="h2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0jp1Te20cRFEQFLkPz37-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="w2" target="0jp1Te20cRFEQFLkPz37-19">
+        <mxCell id="0jp1Te20cRFEQFLkPz37-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="w2" target="0jp1Te20cRFEQFLkPz37-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-22" value="hw_ent_end_tile()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
