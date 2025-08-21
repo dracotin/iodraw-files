@@ -129,14 +129,23 @@
         <mxCell id="hw-title" value="HW" style="text;html=1;fontSize=16;fontStyle=1" parent="hw-lane" vertex="1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hw-lane" source="w1" target="0jp1Te20cRFEQFLkPz37-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w1" value="hw_ctl_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="80" y="90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w2" value="hw_ent_end_tile()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="hw-lane" vertex="1">
           <mxGeometry x="520" y="30" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hw-lane" source="0jp1Te20cRFEQFLkPz37-3" target="0jp1Te20cRFEQFLkPz37-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-3" value="s_ctl_run_tile_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
           <mxGeometry x="80" y="150" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0jp1Te20cRFEQFLkPz37-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hw-lane" source="0jp1Te20cRFEQFLkPz37-4" target="w1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0jp1Te20cRFEQFLkPz37-4" value="hw_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hw-lane">
           <mxGeometry x="80" y="30" width="160" height="40" as="geometry" />
