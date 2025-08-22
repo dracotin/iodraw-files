@@ -218,7 +218,7 @@
         <mxCell id="VKSLflXoO0L2HSRcztTF-12" value="s_host_get_enc_info()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="520" y="110" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ohbb5Ryuj0uWBPgrGFgY-1" value="host_enc()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
+        <mxCell id="ohbb5Ryuj0uWBPgrGFgY-1" value="parse_mosaic_area_info" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="280" y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-13" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
