@@ -275,7 +275,7 @@
         <mxCell id="VKSLflXoO0L2HSRcztTF-30" value="s_run_sub_pic()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-13">
           <mxGeometry x="280" y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VKSLflXoO0L2HSRcztTF-31" value="FW_REG_WR" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-13">
+        <mxCell id="VKSLflXoO0L2HSRcztTF-31" value="s_set_vce_reg()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-13">
           <mxGeometry x="280" y="170" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-32" value="FW_REG_WR" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-13">
