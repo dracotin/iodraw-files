@@ -183,7 +183,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VKSLflXoO0L2HSRcztTF-1" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-110" width="760" height="240" as="geometry" />
+          <mxGeometry x="40" y="-80" width="760" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-2" value="Host" style="text;html=1;fontSize=16;fontStyle=1" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
@@ -193,9 +193,6 @@
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-4" value="host_api_get_result()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="520" y="170" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VKSLflXoO0L2HSRcztTF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VKSLflXoO0L2HSRcztTF-1" source="VKSLflXoO0L2HSRcztTF-6" target="VKSLflXoO0L2HSRcztTF-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-6" value="host_enc()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="80" y="120" width="160" height="30" as="geometry" />
