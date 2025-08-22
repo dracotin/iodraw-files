@@ -343,14 +343,14 @@
         <mxCell id="33RdD_9qSWLVqqKB08uQ-28" value="mosaic_map_info_gen()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
           <mxGeometry x="300" y="60" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="33RdD_9qSWLVqqKB08uQ-29" value="mosaic_average_" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
+          <mxGeometry x="300" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VKSLflXoO0L2HSRcztTF-32" target="VKSLflXoO0L2HSRcztTF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="VKSLflXoO0L2HSRcztTF-41" target="VKSLflXoO0L2HSRcztTF-34">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="33RdD_9qSWLVqqKB08uQ-29" value="mosaic_map_info_gen()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="350" y="530" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
