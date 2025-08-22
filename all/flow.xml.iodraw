@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-40" value="hw_ctl_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8adxh0YVfsoW5NrHBgeH-37">
-          <mxGeometry x="80" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-41" value="hw_ent_end_tile()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8adxh0YVfsoW5NrHBgeH-37">
           <mxGeometry x="520" y="30" width="160" height="40" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-43" value="s_ctl_run_tile_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8adxh0YVfsoW5NrHBgeH-37">
-          <mxGeometry x="80" y="150" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8adxh0YVfsoW5NrHBgeH-37" source="8adxh0YVfsoW5NrHBgeH-45" target="8adxh0YVfsoW5NrHBgeH-40">
           <mxGeometry relative="1" as="geometry" />
