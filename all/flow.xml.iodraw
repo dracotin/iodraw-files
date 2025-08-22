@@ -183,7 +183,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VKSLflXoO0L2HSRcztTF-1" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-90" width="760" height="250" as="geometry" />
+          <mxGeometry x="40" y="-120" width="760" height="280" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-2" value="Host" style="text;html=1;fontSize=16;fontStyle=1" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="10" y="50" width="40" height="20" as="geometry" />
