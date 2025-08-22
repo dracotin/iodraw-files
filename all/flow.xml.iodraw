@@ -323,7 +323,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-45" value="hw_reg_wr()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
-          <mxGeometry x="80" y="30" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-47" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
           <mxGeometry x="294" y="30" width="160" height="40" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry x="520" y="90" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33RdD_9qSWLVqqKB08uQ-28" value="mosaic_map_info_gen()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
-          <mxGeometry x="330" y="125" width="160" height="30" as="geometry" />
+          <mxGeometry x="294" y="155" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33RdD_9qSWLVqqKB08uQ-29" value="mosaic_calc_average()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
           <mxGeometry x="294" y="90" width="160" height="30" as="geometry" />
