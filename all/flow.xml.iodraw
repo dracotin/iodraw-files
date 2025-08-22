@@ -212,6 +212,9 @@
         <mxCell id="ohbb5Ryuj0uWBPgrGFgY-1" value="parse_mosaic_area_info()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
           <mxGeometry x="80" y="70" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uFbC732Y-k-TO0cDh1Q5-1" value="parse_mosaic_area_info()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-1">
+          <mxGeometry x="330" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-13" value="" style="swimlane;horizontal=0;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="760" height="290" as="geometry">
             <mxRectangle x="40" y="160" width="50" height="40" as="alternateBounds" />
