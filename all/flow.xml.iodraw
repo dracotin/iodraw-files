@@ -340,9 +340,6 @@
         <mxCell id="VKSLflXoO0L2HSRcztTF-49" value="run_ctu()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VKSLflXoO0L2HSRcztTF-37">
           <mxGeometry x="520" y="90" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VKSLflXoO0L2HSRcztTF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VKSLflXoO0L2HSRcztTF-9" target="VKSLflXoO0L2HSRcztTF-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VKSLflXoO0L2HSRcztTF-32" target="VKSLflXoO0L2HSRcztTF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
