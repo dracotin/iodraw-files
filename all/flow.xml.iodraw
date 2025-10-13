@@ -300,7 +300,7 @@
         <mxCell id="uFbC732Y-k-TO0cDh1Q5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VKSLflXoO0L2HSRcztTF-13" source="VKSLflXoO0L2HSRcztTF-31" target="33RdD_9qSWLVqqKB08uQ-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VKSLflXoO0L2HSRcztTF-31" value="s_set_vce_reg()" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="VKSLflXoO0L2HSRcztTF-13" vertex="1">
+        <mxCell id="VKSLflXoO0L2HSRcztTF-31" value="" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="VKSLflXoO0L2HSRcztTF-13" vertex="1">
           <mxGeometry x="280" y="170" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VKSLflXoO0L2HSRcztTF-32" value="FW_REG_WR" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="VKSLflXoO0L2HSRcztTF-13" vertex="1">
