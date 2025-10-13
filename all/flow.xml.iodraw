@@ -372,9 +372,6 @@
         <mxCell id="VKSLflXoO0L2HSRcztTF-49" value="process_ctu_mosaic()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VKSLflXoO0L2HSRcztTF-37" vertex="1">
           <mxGeometry x="520" y="90" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uFbC732Y-k-TO0cDh1Q5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="VKSLflXoO0L2HSRcztTF-37" source="33RdD_9qSWLVqqKB08uQ-28" target="33RdD_9qSWLVqqKB08uQ-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="33RdD_9qSWLVqqKB08uQ-28" value="precompute_mosaic_avg()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VKSLflXoO0L2HSRcztTF-37" vertex="1">
           <mxGeometry x="294" y="150" width="160" height="31" as="geometry" />
         </mxCell>
