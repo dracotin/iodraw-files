@@ -154,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-47" value="s_ctl_encode_slice()" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8adxh0YVfsoW5NrHBgeH-37">
-          <mxGeometry x="520" y="150" width="160" height="40" as="geometry" />
+          <mxGeometry x="520" y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8adxh0YVfsoW5NrHBgeH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="8adxh0YVfsoW5NrHBgeH-37" source="8adxh0YVfsoW5NrHBgeH-49" target="8adxh0YVfsoW5NrHBgeH-41">
           <mxGeometry relative="1" as="geometry" />
