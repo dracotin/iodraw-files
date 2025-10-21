@@ -19,8 +19,14 @@
         <mxCell id="Y-pkQYjBVI_93GqxnTnS-3" value="SRC data&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="270" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y-pkQYjBVI_93GqxnTnS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y-pkQYjBVI_93GqxnTnS-4" target="Y-pkQYjBVI_93GqxnTnS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y-pkQYjBVI_93GqxnTnS-4" value="precompute mosaic average" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-pkQYjBVI_93GqxnTnS-6" value="generate mosaic map info" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
