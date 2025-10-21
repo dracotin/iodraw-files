@@ -37,7 +37,7 @@
         <mxCell id="Y-pkQYjBVI_93GqxnTnS-8" value="process mosaic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y-pkQYjBVI_93GqxnTnS-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y-pkQYjBVI_93GqxnTnS-10" value="update mosaic line buffer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
