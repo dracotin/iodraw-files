@@ -13,6 +13,11 @@
             <mxPoint x="120" y="289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y-pkQYjBVI_93GqxnTnS-2" value="SRC data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y-pkQYjBVI_93GqxnTnS-1">
+          <mxGeometry x="-0.2914" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
