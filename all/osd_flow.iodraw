@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-21" value="alpha ==255?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="240" width="100" height="80" as="geometry" />
+          <mxGeometry x="680" y="270" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-23" value="Next OSD" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="990" y="520" width="100" height="80" as="geometry" />
