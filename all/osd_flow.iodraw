@@ -58,6 +58,11 @@
         <mxCell id="OG38HpxESbotxyF6rZak-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LyUnxbgYTrtqo9uQTVn2-11" target="LyUnxbgYTrtqo9uQTVn2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OG38HpxESbotxyF6rZak-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OG38HpxESbotxyF6rZak-11">
+          <mxGeometry x="0.0569" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-11" value="use_global_alpha ==1?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="440" width="130" height="80" as="geometry" />
         </mxCell>
@@ -65,7 +70,7 @@
           <mxGeometry x="310" y="360" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-13" value="Use global alpha" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-14" value="Use local alpha" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="380" width="120" height="40" as="geometry" />
