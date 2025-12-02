@@ -107,6 +107,16 @@
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-23" value="Next OSD" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="990" y="520" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OG38HpxESbotxyF6rZak-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="400" as="sourcePoint" />
+            <mxPoint x="464" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="400" />
+              <mxPoint x="414" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
