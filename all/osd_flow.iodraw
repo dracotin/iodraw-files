@@ -53,7 +53,7 @@
           <mxGeometry x="1200" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-18" value="alpha ==0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="350" width="100" height="80" as="geometry" />
+          <mxGeometry x="740" y="340" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-19" value="blend layer= layer2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="460" width="120" height="40" as="geometry" />
