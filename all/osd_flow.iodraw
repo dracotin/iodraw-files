@@ -23,16 +23,16 @@
           <mxGeometry x="1120" y="380" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-8" value="Load OSD data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-9" value="Format conversion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-10" value="Bitdepth conversion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-11" value="use_global_alpha ==1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="300" width="130" height="80" as="geometry" />
+          <mxGeometry x="470" y="250" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-12" value="local_alpha present ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="370" width="130" height="80" as="geometry" />
