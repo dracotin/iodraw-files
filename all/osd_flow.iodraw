@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LyUnxbgYTrtqo9uQTVn2-12" value="local_alpha present ?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="340" width="130" height="80" as="geometry" />
+          <mxGeometry x="310" y="320" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OG38HpxESbotxyF6rZak-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LyUnxbgYTrtqo9uQTVn2-13" target="LyUnxbgYTrtqo9uQTVn2-18">
           <mxGeometry relative="1" as="geometry" />
