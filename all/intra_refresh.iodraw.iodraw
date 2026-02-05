@@ -19,7 +19,7 @@
         <mxCell id="vU3cJToj_hEjwjoaMljS-3" value="Frame N" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vU3cJToj_hEjwjoaMljS-4" value="Frame 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vU3cJToj_hEjwjoaMljS-4" value="Frame 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vU3cJToj_hEjwjoaMljS-5" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" parent="1" vertex="1">
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JOuNAH-qul2S9L9IIGHl-10" value="Using Standard I-Frames" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="190" width="150" height="30" as="geometry" />
+          <mxGeometry x="-80" y="190" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JOuNAH-qul2S9L9IIGHl-11" value="Using Intra Refresh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-95" y="320" width="150" height="30" as="geometry" />
