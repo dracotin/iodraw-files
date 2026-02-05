@@ -89,7 +89,7 @@
           <mxGeometry x="400" y="470" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JOuNAH-qul2S9L9IIGHl-21" value="Intra coded data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="468" width="110" height="30" as="geometry" />
+          <mxGeometry x="270" y="470" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
