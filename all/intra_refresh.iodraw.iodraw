@@ -59,7 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JOuNAH-qul2S9L9IIGHl-10" value="Using Standard I-Frames" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="-80" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOuNAH-qul2S9L9IIGHl-11" value="Using Standard I-Frames" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="200" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
